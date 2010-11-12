@@ -1,1 +1,7 @@
 My resume and scripts to upload it
+
+to compile and upload, run
+
+./upload.rb
+
+to edit info, edit resume.yml for raw employment data, and justin_thibault_resume.haml for css and other info
